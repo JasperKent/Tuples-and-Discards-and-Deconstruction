@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuples", "Tuples\Tuples.csproj", "{BC30AF2C-36A5-4F27-9070-98714845910E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC30AF2C-36A5-4F27-9070-98714845910E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC30AF2C-36A5-4F27-9070-98714845910E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC30AF2C-36A5-4F27-9070-98714845910E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC30AF2C-36A5-4F27-9070-98714845910E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C85AE8-CF4F-424F-8F60-48A9704C4E06}
+	EndGlobalSection
+EndGlobal
